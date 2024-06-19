@@ -1,4 +1,3 @@
-
 # Firebase Image Uploader
 
 ## Stack
@@ -15,11 +14,10 @@ Click Here for [Live Preview.](https://firebase-image-upload-gray.vercel.app/)
 
 ---
 
-
 Copy Your Firebase Credentials to `.env`.
 Refer `.sample.env` file.
 
---- 
+---
 
 ### Get the Code
 
@@ -33,12 +31,14 @@ git clone https://github.com/Arvind-4/firebase-image-upload.git .
 
 - Install Dependencies
 
-**For Yarn** 
+**For Yarn**
+
 ```sh
-yarn 
+yarn
 ```
 
-**For npm** 
+**For npm**
+
 ```sh
 npm install
 ```
