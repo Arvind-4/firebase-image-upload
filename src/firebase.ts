@@ -1,7 +1,7 @@
-import { initializeApp } from 'firebase/app';
-import { getStorage } from 'firebase/storage';
+import { initializeApp } from "firebase/app";
+import { getStorage } from "firebase/storage";
 
-import { env } from './env';
+import { env } from "./env";
 
 const firebaseConfig = {
   apiKey: env.VITE_API_KEY,
